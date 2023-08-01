@@ -214,7 +214,6 @@
   </scm>
 
   <prerequisites>
-  <java.version>11</java.version> 
     <maven>3.0.3</maven>
   </prerequisites>
 
